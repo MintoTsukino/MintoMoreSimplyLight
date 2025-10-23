@@ -71,6 +71,8 @@ RPGツクールMZ向けの、\*\*たいまつとランタン専用の軽量ラ�
 
 
 \### 🪄 Screenshot / スクリーンショット  
+> ⚠️ *This screenshot uses MintoShaderSuite together with MintoMoreSimplyLight.*  
+> （このスクリーンショットは MintoShaderSuite と併用した状態で撮影しています） 
 
 <img width="818" height="656" alt="example" src="https://github.com/user-attachments/assets/c1842db1-f7cf-44eb-8b25-22f84052aa4f" />
 
@@ -81,6 +83,7 @@ RPGツクールMZ向けの、\*\*たいまつとランタン専用の軽量ラ�
 
 
 (c) 2025 MintoSoft — Free for personal \& commercial use  
+
 
 
 
