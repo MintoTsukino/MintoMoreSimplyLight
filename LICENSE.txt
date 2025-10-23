@@ -1,0 +1,21 @@
+MintoSoft Open License / ミントソフト・オープンライセンス
+------------------------------------------------------------
+© 2025 MintoSoft
+
+This plugin is free for personal and commercial use.
+Credit “MintoSoft” is required in your project.
+Redistribution is allowed only with this license text.
+Modification is allowed for personal or commercial projects,
+but modified versions must also include this license notice.
+
+Use at your own risk. MintoSoft assumes no responsibility
+for any damages or losses resulting from the use of this plugin.
+
+------------------------------------------------------------
+このプラグインは個人・商用問わず無料で使用できます。
+プロジェクト内またはクレジットに「MintoSoft」と表記してください。
+再配布を行う場合は、このライセンス文を必ず同梱してください。
+改変したバージョンを配布する場合も、この文を残す必要があります。
+
+本プラグインの使用により生じたいかなる損害についても、
+MintoSoft は一切の責任を負いません。
